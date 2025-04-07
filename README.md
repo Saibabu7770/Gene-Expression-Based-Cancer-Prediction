@@ -91,6 +91,12 @@ Install them via:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn joblib
 
+
+```
+
+
+
+
 Result:
 
 The visualization titled "Gene Expression vs Cancer Prediction" presents a clear and concise summary of how gene expression data is being used to predict cancer presence. Each point on the scatter plot represents a sample, with the x-axis showing "Gene One Expression" and the y-axis showing "Gene Two Expression". The dataset consists of both cancer-positive and cancer-negative samples, which are color-coded for clarity—blue indicates samples where cancer is not present (label 0), and red indicates those where cancer is present (label 1).
@@ -120,7 +126,14 @@ Overall, the visualization not only confirms the effectiveness of the model but 
 
 
 
-```
+
+
+
+
+
+
+
+
 
 ## Notes
 
